@@ -24,3 +24,8 @@
       var appurl="https://hl2jr.cn";
       var token="d01d92d1814c905a631ed26c1fb8df2c";
     </script>  
+
+SECRET = "idFyh70LLYhhbkjOdFzP"
+SECRET="ghjhgjktjhkhhbkjOdFzP"
+SECRET:"idpjfghbpgthgf587gjhhg"
+SECret:'ghkjyh70LdYhhbfghfgjkjOdFzfgfg'
