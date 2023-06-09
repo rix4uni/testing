@@ -1,0 +1,33 @@
+    <script>
+      var CONSOLE_MODE = false,
+          EVALEX = true,
+          EVALEX_TRUSTED = false,
+          SECRET = "uukOEM6IJ4VTjI7f0rNr";
+    </script>
+    
+    <script type="text/javascript">
+      var TRACEBACK = 140028605262672,
+          CONSOLE_MODE = false,
+          EVALEX = true,
+          EVALEX_TRUSTED = false,
+          SECRET = "xHL6jnSfHnOJZiGqF6Dn";
+    </script>
+    
+        <script>
+      var CONSOLE_MODE = false,
+          EVALEX = true,
+          EVALEX_TRUSTED = false,
+          SECRET = "idFyh70LLYhhbkjOdFzP";
+    </script>
+    
+    <script type="text/javascript">
+      var appurl="https://hl2jr.cn";
+      var token="d01d92d1814c905a631ed26c1fb8df2c";
+    </script>  
+
+    <script>
+SECRET = "idFyh70LLYhhbkjOdFzP"
+SECRET="ghjhgjktjhkhhbkjOdFzP"
+SECRET:"idpjfghbpgthgf587gjhhg"
+SECret:'ghkjyh70LdYhhbfghfgjkjOdFzfgfg'
+    </script>  
