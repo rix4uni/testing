@@ -93,3 +93,6 @@ password = "GPjeOfuAJi7dQ0nYTpUI"
 +3197010517154 (Netherlands)
 +447893920404 (United Kingdom)
 +32468799982 (Belgium)
+
+AGORA_APP_ID="beefcd65c4329f5fad1594610b9cdead"
+AGORA_APP_SECRET="016f2fe2ca0849a7cac3ed33dbe7dead"
